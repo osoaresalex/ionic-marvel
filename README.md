@@ -1,8 +1,8 @@
-## IONIC 3 - Marvel Comics
+## OBJECTIVE - BUSCA MARVEL 
 
-This project was created to show you how we can create a APP with Ionic 3 and How We can integrate with a external API creating a provider. 
+Este projeto foi criado para mostrar como criar um APP e como podemos integrar com uma API externa. 
 
-### To run:
+### para rodar:
 
 ```bash
 $ ionic serve
